@@ -12602,9 +12602,10 @@ class PortfolioEnvironment(gym.Env):
 
         self.max_steps = min(len(self.features[s]) for s in self.symbols)
 
-        # --- Step 2: <<< IMPROVEMENT: Calculate Observation Space Size BASED ON ACTUAL DATA >>> ---
-        # L y kch thu c of sfeature thtru ng tchnh array numpy d dufrom o
-        single_symbol_market_features_dim = self.features[self.symbols[0]].shape[1]
+        # --- Step 2: <<< IMPROVEMENT: Calculate Observation Space Size BASED ON FIXED DIMENSION >>> ---
+        # Use fixed feature dimension for consistency between training and inference
+        FIXED_FEATURE_DIM = ML_CONFIG.get("FEATURE_SELECTION_TOP_K", 60)
+        single_symbol_market_features_dim = FIXED_FEATURE_DIM
 
         # public tFunction 3 state of vth(vth , pnl, th i gian)
         single_symbol_obs_size = single_symbol_market_features_dim + 3
@@ -12620,7 +12621,7 @@ class PortfolioEnvironment(gym.Env):
 
         # Store dimensions for validation
         # CRITICAL FIX: Use fixed feature dimension for consistency
-        self.expected_market_dim = ML_CONFIG.get("FEATURE_SELECTION_TOP_K", 60)
+        self.expected_market_dim = FIXED_FEATURE_DIM
         self.expected_total_dim = total_obs_size
         self.action_space = spaces.MultiDiscrete([3] * self.n_symbols)
         # --- K T THC C I money ---
@@ -12639,7 +12640,7 @@ class PortfolioEnvironment(gym.Env):
 
             # CRITICAL FIX: Ensure consistent feature dimensions across all symbols
             # Use a fixed feature dimension for RL consistency
-            FIXED_FEATURE_DIM = ML_CONFIG.get("FEATURE_SELECTION_TOP_K", 60)
+            FIXED_FEATURE_DIM = self.expected_market_dim
             
             if len(market_obs) != FIXED_FEATURE_DIM:
                 if len(market_obs) < FIXED_FEATURE_DIM:
@@ -20962,7 +20963,7 @@ class EnhancedTradingBot:
 
                 # CRITICAL FIX: Ensure all symbols have the same number of features
                 # Use a fixed feature dimension for RL consistency
-                FIXED_FEATURE_DIM = ML_CONFIG.get("FEATURE_SELECTION_TOP_K", 60)
+                FIXED_FEATURE_DIM = self.portfolio_rl_agent.model.observation_space.shape[0] // (len(active_symbols_for_rl) + 1) - 3
                 
                 if market_obs is None:
                     market_obs = np.zeros(FIXED_FEATURE_DIM)
