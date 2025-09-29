@@ -112,3 +112,6 @@ wheel==0.45.1
 wrapt==1.17.3
 xgboost==3.0.5
 yarl==1.20.1
+eod==0.2.1
+newsapi-python==0.2.7
+river==0.22.0
