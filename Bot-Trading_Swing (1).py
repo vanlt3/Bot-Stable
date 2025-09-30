@@ -13022,15 +13022,16 @@ class RLAgent:
 
 
 # === ENHANCED RL CALLBACKS ===
-class EnhancedRewardCallback:
+class EnhancedRewardCallback(BaseCallback):
     """Callback to monitor and adjust rewards during training"""
     
-    def __init__(self, rl_agent):
+    def __init__(self, rl_agent, verbose=1):
+        super(EnhancedRewardCallback, self).__init__(verbose)
         self.rl_agent = rl_agent
         self.episode_rewards = []
         self.call_count = 0
     
-    def __call__(self, locals_dict, globals_dict):
+    def _on_step(self) -> bool:
         """Called during training to monitor rewards"""
         self.call_count += 1
         
@@ -13043,15 +13044,16 @@ class EnhancedRewardCallback:
         
         return True  # Continue training
 
-class PerformanceMonitorCallback:
+class PerformanceMonitorCallback(BaseCallback):
     """Callback to monitor performance metrics during training"""
     
-    def __init__(self, rl_agent):
+    def __init__(self, rl_agent, verbose=1):
+        super(PerformanceMonitorCallback, self).__init__(verbose)
         self.rl_agent = rl_agent
         self.call_count = 0
         self.last_metrics_update = 0
     
-    def __call__(self, locals_dict, globals_dict):
+    def _on_step(self) -> bool:
         """Called during training to monitor performance"""
         self.call_count += 1
         
