@@ -1,0 +1,7 @@
+2025-10-01 10:50:25,762 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-01 10:50:25,763 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
+2025-10-01 10:50:25,763 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-01 10:50:25,763 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
+2025-10-01 10:50:30,094 | [32mℹ️ INFO[0m | 📋 root               | <module>       :2943 | 🔑 Trading Economics API key found: Yes
+2025-10-01 10:50:30,094 | [32mℹ️ INFO[0m | 📋 root               | <module>       :2949 | ✅ Trading Economics API authenticated successfully
+2025-10-01 10:50:30,147 | [33m⚠️ WARNING[0m | 📋 root               | <module>       :2997 | optuna integrations not available. Some optimization features disabled.
