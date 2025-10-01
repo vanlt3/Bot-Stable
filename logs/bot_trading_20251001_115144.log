@@ -1,0 +1,7 @@
+2025-10-01 11:51:48,926 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-01 11:51:48,926 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
+2025-10-01 11:51:48,927 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-01 11:51:48,927 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
+2025-10-01 11:51:53,426 | [33m⚠️ WARNING[0m | 📋 root               | <module>       :2966 | tradingeconomics package not available. Economic calendar features will be limited.
+2025-10-01 11:51:53,426 | [33m⚠️ WARNING[0m | 📋 root               | <module>       :2988 | optuna not available. Hyperparameter optimization will be limited.
+2025-10-01 11:51:53,426 | [33m⚠️ WARNING[0m | 📋 root               | <module>       :2997 | optuna integrations not available. Some optimization features disabled.

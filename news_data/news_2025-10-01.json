@@ -1,10 +1,308 @@
 {
   "date": "2025-10-01",
   "created_at": "2025-10-01T10:49:39.666479",
-  "symbols": {},
+  "symbols": {
+    "BTCUSD": {
+      "news_items": [
+        {
+          "source": "NewsAPI.org",
+          "title": "Did Bitcoin price bottom at $108K? 3 reasons that the worst is over",
+          "summary": "The Bitcoin price drop to $108,000 was likely a buy-the-dip opportunity with BTC set to recover, several key market metrics suggest.",
+          "url": "https://cointelegraph.com/news/did-bitcoin-price-bottom-108k-these-3-data-points-suggest-the-worst-is-over",
+          "published_at": "2025-09-30T11:10:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "riskoptimix added to PyPI",
+          "summary": "A simple Python toolkit for algorithmic trading",
+          "url": "https://pypi.org/project/riskoptimix/",
+          "published_at": "2025-09-30T10:58:09"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Watch these three Bitcoin price levels ahead of monthly close: Analyst",
+          "summary": "Bitcoin bulls began a battle to flip three moving averages back to support at the start of the week, the latest BTC price analysis confirmed.",
+          "url": "https://cointelegraph.com/news/watch-these-3-bitcoin-price-levels-ahead-monthly-close-analyst",
+          "published_at": "2025-09-30T10:02:21"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Societe Generale’s Crypto Arm Deploys Euro and Dollar Stablecoins on Uniswap, Morpho",
+          "summary": "The bank’s regulated stablecoins EURCV and USDCV will be used in DeFi lending and trading.",
+          "url": "https://www.coindesk.com/business/2025/09/30/societe-generale-s-crypto-arm-deploys-euro-and-dollar-stablecoins-on-uniswap-morpho",
+          "published_at": "2025-09-30T07:39:38"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "iShares Bitcoin Trust ETF (NASDAQ:IBIT) Stock Acquired Rep. Marjorie Taylor Greene",
+          "summary": "Representative Marjorie Taylor Greene (R-Georgia) recently bought shares of iShares Bitcoin Trust ETF (NASDAQ:IBIT). In a filing disclosed on September 27th, the Representative disclosed that they had bought between $1,001 and $15,000 in iShares Bitcoin Trust…",
+          "url": "https://www.etfdailynews.com/2025/09/30/ishares-bitcoin-trust-etf-nasdaqibit-stock-acquired-rep-marjorie-taylor-greene/",
+          "published_at": "2025-09-30T06:02:43"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Bitcoin Price Bounces Higher – Clears Resistance, But Next Barrier Still Looms",
+          "summary": "Bitcoin price started a recovery wave and traded above $114,000. BTC is trading above $114,000 and facing hurdles near $115,000. Bitcoin started a fresh recovery wave above the $113,500 zone. The price is trading above $114,000 and the 100 hourly Simple movin…",
+          "url": "http://www.newsbtc.com/analysis/btc/bitcoin-price-bounces-114k/",
+          "published_at": "2025-09-30T02:50:48"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "[Latest] Global Wavefront Aberrometer Market Size/Share Worth USD 57.8 Million by 2034 at a 3.5% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+          "summary": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Wavefront Aberrometer Market size & share revenue was valued at approximately USD 42.5 Million in 2024 and is expected to reach …",
+          "url": "https://www.globenewswire.com/news-release/2025/09/30/3158244/0/en/Latest-Global-Wavefront-Aberrometer-Market-Size-Share-Worth-USD-57-8-Million-by-2034-at-a-3-5-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentati.html",
+          "published_at": "2025-09-30T02:30:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Massachusetts to hold hearing to consider Bitcoin reserve bill",
+          "summary": "After about seven months with no movement in Massachusetts’ legislature, a Bitcoin reserve bill introduced by state senator Peter Durant is scheduled for a hearing next week.",
+          "url": "https://cointelegraph.com/news/massachusetts-hearing-bitcoin-reserve-bill",
+          "published_at": "2025-09-29T21:08:44"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Plasma stablecoin launch hits $2 billion TVL on day one, promises fee-free transactions",
+          "summary": "Paul Fex and Christian Angermayer have launched a new stablecoin platform called Plasma. The platform aims to enable fast, free, and anonymous handling of “money 2.0”. Plasma is an Ethereum-compatible L1 blockchain designed for stablecoins. The developers wan…",
+          "url": "https://techpinions.com/plasma-stablecoin-launch-hits-2-billion-tvl-on-day-one-promises-fee-free-transactions/",
+          "published_at": "2025-09-29T20:36:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq nudge higher as Wall Street grapples with shutdown risk",
+          "summary": "A US government shutdown risks delaying the release of the all-important monthly jobs report later in the week.",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-as-wall-street-grapples-with-shutdown-risk-133119017.html",
+          "published_at": "2025-09-29T20:03:03"
+        }
+      ],
+      "last_updated": "2025-10-01T12:07:41.156143",
+      "total_items": 10
+    },
+    "ETHUSD": {
+      "news_items": [
+        {
+          "source": "NewsAPI.org",
+          "title": "Stablecoin rewards under attack by banks ‘to maintain monopoly’ – Brian Armstrong",
+          "summary": "USDT, USDC, and USDe saw record inflows, but the money is moving off the grid.",
+          "url": "https://ambcrypto.com/stablecoin-rewards-under-attack-by-banks-to-maintain-monopoly-brian-armstrong/",
+          "published_at": "2025-09-30T11:00:15"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Societe Generale’s Crypto Arm Deploys Euro and Dollar Stablecoins on Uniswap, Morpho",
+          "summary": "The bank’s regulated stablecoins EURCV and USDCV will be used in DeFi lending and trading.",
+          "url": "https://www.coindesk.com/business/2025/09/30/societe-generale-s-crypto-arm-deploys-euro-and-dollar-stablecoins-on-uniswap-morpho",
+          "published_at": "2025-09-30T07:39:38"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "iShares Ethereum Trust ETF $ETHA Holdings Increased by Farther Finance Advisors LLC",
+          "summary": "Farther Finance Advisors LLC grew its stake in shares of iShares Ethereum Trust ETF (NASDAQ:ETHA – Free Report) by 250.5% during the second quarter, according to its most recent filing with the Securities and Exchange Commission. The institutional investor ow…",
+          "url": "https://www.etfdailynews.com/2025/09/30/ishares-ethereum-trust-etf-etha-holdings-increased-by-farther-finance-advisors-llc/",
+          "published_at": "2025-09-30T07:22:58"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Ethereum Shows Strength – Traders Eye Breakout That Could Trigger Bigger Gains",
+          "summary": "Ethereum price started a recovery wave above $4,150. ETH is now consolidating and might aim for more gains if it clears the $4,220 resistance. Ethereum remained stable above $4,020 and started a recovery wave. The price is trading above $4,150 and the 100-hou…",
+          "url": "http://www.newsbtc.com/analysis/eth/ethereum-shows-strength-4050/",
+          "published_at": "2025-09-30T03:08:55"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "SOL price recovers, but new highs depend on multiple factors",
+          "summary": "SOL’s faces a fresh wave of challenges from competing blockchains, and the path to $250 depends on a potential spot ETF approval and institutional inflows.",
+          "url": "https://cointelegraph.com/news/sol-price-recovers-but-new-highs-depend-on-multiple-factors",
+          "published_at": "2025-09-30T00:30:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq nudge higher as Wall Street grapples with shutdown risk",
+          "summary": "A US government shutdown risks delaying the release of the all-important monthly jobs report later in the week.",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-as-wall-street-grapples-with-shutdown-risk-133119017.html",
+          "published_at": "2025-09-29T20:03:03"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "CRYPTO REBOUNDS, ASTER METRICS SOAR, PLASMA HITS $13B",
+          "summary": "ETH, HYPE & BNB lead bounce in top L1s. ETH ETFs saw ATH outflows last week. Swift to launch blockchain in response to stablecoins. ASTER flips Tether in fees, Binance for perp volume. SEC’s Pierce urges quick progress in crypto. Stablecoin supply hits ATH ov…",
+          "url": "https://decrypt.co/videos/interviews/9egO3SLE/crypto-rebounds-aster-metrics-soar-plasma-hits-13b",
+          "published_at": "2025-09-29T15:15:54"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton",
+          "summary": "Physics plays a crucial role in robotic simulation, providing the foundation for accurate virtual representations of robot behavior and interactions within...",
+          "url": "https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/",
+          "published_at": "2025-09-29T14:59:29"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Ethereum reclaims $4K: Three reasons why ETH price will ‘pump’ in October",
+          "summary": "Ethereum rebounded to $4,200 ahead of the weekly open as traders positioned for a price recovery in October, based on onchain and technical data.",
+          "url": "https://cointelegraph.com/news/ethereum-reclaims-4k-three-reasons-why-eth-price-will-pump-in-october",
+          "published_at": "2025-09-29T14:40:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "BTC price due for $108K ‘ping pong’: 5 things to know in Bitcoin this week",
+          "summary": "Bitcoin rebounded to $112,000 into the weekly close, but traders immediately positioned for a BTC price correction to the bottom of its local range.",
+          "url": "https://cointelegraph.com/news/btc-price-due-108k-ping-pong-5-things-bitcoin-this-week",
+          "published_at": "2025-09-29T09:55:28"
+        }
+      ],
+      "last_updated": "2025-10-01T12:07:43.742307",
+      "total_items": 10
+    },
+    "XAUUSD": {
+      "news_items": [
+        {
+          "source": "NewsAPI.org",
+          "title": "Chronological Reading for Tuesday September 30, 2025 (NIV)",
+          "summary": null,
+          "url": "https://www.biblegateway.com/reading-plans/chronological/2025/09/30/",
+          "published_at": "2025-09-30T04:07:52"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Modification of adipose mass by targeting distal enhancers of Ptrf",
+          "summary": "Background Adipose tissue plays a central role in systemically metabolic regulation. Polymerase I and transcript release factor (PTRF) is responsible for caveolae structure formation and plays a crucial role in lipid metabolism. Results We investigated the po…",
+          "url": "https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02405-6",
+          "published_at": "2025-09-30T00:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Derivation of embryonic stem cells across avian species",
+          "summary": "Embryonic stem cells for chicken and seven other avian species are derived.",
+          "url": "https://www.nature.com/articles/s41587-025-02833-3",
+          "published_at": "2025-09-30T00:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Phase-separated NDF−FACT condensates facilitate transcription elongation on chromatin",
+          "summary": "Li, Burgos-Bravo and colleagues report that NDF phase separation regulates FACT condensation, which enhances transcription by generating a localized biochemical environment that promotes nucleosome disassembly while preserving chromatin integrity by retaining…",
+          "url": "https://www.nature.com/articles/s41556-025-01778-8",
+          "published_at": "2025-09-30T00:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Hippocampal-cortical interactions in the consolidation of social memory",
+          "summary": "The neural basis of social familiarity remains unclear. This study finds hippocampal-cortical circuits that support generalized social memory, demonstrating where and how the brain stores information about familiar individuals.",
+          "url": "https://www.nature.com/articles/s41467-025-64264-7",
+          "published_at": "2025-09-30T00:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq nudge higher as Wall Street grapples with shutdown risk",
+          "summary": "A US government shutdown risks delaying the release of the all-important monthly jobs report later in the week.",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-as-wall-street-grapples-with-shutdown-risk-133119017.html",
+          "published_at": "2025-09-29T20:03:03"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Acinetobacter phages use distinct strategies to breach the capsule barrier",
+          "summary": "Author summary Acinetobacter baumannii causes life-threatening and often antibiotic-resistant infections thereby posing a global threat. Accordingly, there is an urgent need for alternative treatments such as phage therapy, the use of bacterial viruses to tre…",
+          "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013536",
+          "published_at": "2025-09-29T14:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Evaluating the effects of synthetic POM cycles and NAD+ kinase expression on fatty alcohol production in Saccharomyces cerevisiae",
+          "summary": "Efficient regeneration of NADPH can be a limiting factor for anabolic processes in engineered microbial cells. We tested the ability of four distinct Pyruvate-Oxaloacetate-Malate “POM” cycles composed of Saccharomyces cerevisiae pyruvate carboxylase (PYC1 or …",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333299",
+          "published_at": "2025-09-29T14:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Where does the carbon go? A new carbon balance method to assess what happens to plastics under solar exposure",
+          "summary": "Plastic pollution is a major and global threat to ecosystems and human health, resulting from the spreading and breakdown of plastic litter in the environment. In an aquatic environment, the first causes of this degradation are exposure to natural ultraviolet…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333021",
+          "published_at": "2025-09-29T14:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Examining the acceptance of drone delivery services among Chinese consumers: A perspective from urban and rural areas",
+          "summary": "Drones hold considerable promise in the realms of logistics and distribution, as they are expected to enhance the speed and efficiency of courier deliveries while simultaneously reducing associated costs. This study investigates Chinese consumers’ willingness…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333422",
+          "published_at": "2025-09-29T14:00:00"
+        }
+      ],
+      "last_updated": "2025-10-01T12:07:46.446725",
+      "total_items": 10
+    },
+    "SPX500": {
+      "news_items": [
+        {
+          "source": "NewsAPI.org",
+          "title": "US stock futures slip as shutdown risk looms, Nvidia shines, Intel falls, gold price hits $3,842 record",
+          "summary": "U.S. stock futures fell today as investors watched for signs of a possible government shutdown and reacted to fresh trade tariffs. The market saw cautious trading, with all major indexes dipping early. Tech stocks and AI companies remain in focus after leadin…",
+          "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-futures-slip-as-sp-500-dow-jones-and-nasdaq-retreat-after-mondays-gains-nvidia-leads-top-gainers-intel-among-losers-gold-price-surges-to-record-3842-ahead-of-shutdown-risk/articleshow/124234485.cms",
+          "published_at": "2025-09-30T12:02:43"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Inside The Race To Improve The Patient Experience With AI Agents",
+          "summary": "Start-ups in the AI agent market for healthcare have raised tens of millions of dollars of new funding in recent weeks as competition in the sector hots up",
+          "url": "https://www.forbes.com/sites/davidprosser/2025/09/30/inside-the-race-to-improve-the-patient-experience-with-ai-agents/",
+          "published_at": "2025-09-30T12:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "The Big Cheese",
+          "summary": "Shadow Ticket is brisker than Thomas Pynchon’s other work, but it’s full of his usual vaudevillian sensibility, and it addresses his favorite theme: how to live freely under powerful systems of control.",
+          "url": "http://www.nybooks.com/articles/2025/10/23/the-big-cheese-shadow-ticket-thomas-pynchon/",
+          "published_at": "2025-09-30T12:00:00"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Lionel Richie fans revolt over ‘concert’ that turned out to be book talk",
+          "summary": "Lionel Richie fans were upset after an event they expected to be a concert turned out to be a Q&A about his new memoir. Eat the Richie! Lionel Richie fans revolted Monday night, we’re told, when they showed up at a Times Square concert venue expecting to see …",
+          "url": "https://pagesix.com/2025/09/30/entertainment/lionel-richie-fans-revolt-over-concert-that-turned-out-to-be-book-talk/",
+          "published_at": "2025-09-30T11:47:10"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Ukraine plotting false flag in EU – Moscow",
+          "summary": "Kiev is continuing to try to drag Western Europe into the conflict, according to Russia’s Foreign Intelligence Service (SVR) Read Full Article at RT.com",
+          "url": "https://www.rt.com/news/625635-ukraine-poland-belarus-nato/",
+          "published_at": "2025-09-30T11:41:16"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Kash Patel Gifted New Zealand Officials Illegal Pistols, Which Had To Be Destroyed",
+          "summary": "The FBI director's plastic 3D-printed replica pistols for police and spy bosses were illegal to possess under local gun laws.",
+          "url": "https://www.huffpost.com/entry/new-zealand-kash-patel-guns_n_68dbbab1e4b0d2dd3157dd0a",
+          "published_at": "2025-09-30T11:22:22"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "French firms to boost capacity to spy from the stratosphere",
+          "summary": "",
+          "url": "https://biztoc.com/x/3876313a6a75c144",
+          "published_at": "2025-09-30T11:14:56"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "Jodie Turner-Smith wore a Schiaparelli dress made with computer parts & cell phones",
+          "summary": "Embed from Getty Images Tron: Ares hits theaters on October 10 and the press tour is in full swing. It stars Jeff Bridges, Greta Lee, Gillian Anderson, Jodie Turner-Smith, Jared Leto, and Evan Peters. As we gear up for the premiere, I hope we get a lot of fun…",
+          "url": "https://www.celebitchy.com/942851/jodie_turner-smith_wore_a_schiaparelli_dress_made_with_computer_parts_cell_phones/",
+          "published_at": "2025-09-30T11:05:55"
+        },
+        {
+          "source": "NewsAPI.org",
+          "title": "FBI Director Kash Patel’s pistol gifts spark controversy",
+          "summary": "On a visit to New Zealand, FBI Director Kash Patel gave the country’s police and spy bosses gifts of inoperable pistols that were illegal to possess under local gun laws and had to be destroyed.",
+          "url": "https://www.wgal.com/article/fbi-director-kash-patel-pistol-gifts-new-zealand/68128263",
+          "published_at": "2025-09-30T10:56:02"
+        }
+      ],
+      "last_updated": "2025-10-01T12:07:53.381994",
+      "total_items": 9
+    }
+  },
   "summary": {
-    "total_news": 0,
-    "symbols_covered": 0,
-    "last_updated": "2025-10-01T10:49:39.666502"
+    "total_news": 39,
+    "symbols_covered": 4,
+    "last_updated": "2025-10-01T12:07:53.382008"
   }
 }

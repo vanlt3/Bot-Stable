@@ -1,9 +1,14 @@
 {
-  "last_updated": "2025-10-01T11:05:43.489479",
+  "last_updated": "2025-10-01T12:07:53.409997",
   "available_dates": [
     "index",
     "2025-10-01"
   ],
   "total_files": 2,
-  "symbols_tracked": []
+  "symbols_tracked": [
+    "BTCUSD",
+    "ETHUSD",
+    "SPX500",
+    "XAUUSD"
+  ]
 }
